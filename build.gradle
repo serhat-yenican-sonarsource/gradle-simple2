@@ -17,6 +17,7 @@ sonarqube {
     property "sonar.projectKey", "sample-test-project2"
     property "sonar.organization", "serhat-personal"
     property "sonar.host.url", "https://pr-3646-core.sc-dev.io"
+    
   }
 }
 
